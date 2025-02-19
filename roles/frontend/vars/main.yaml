@@ -1,0 +1,3 @@
+BACKEND_HOST: "backend.app-{{ ENVIRONMENT }}.vemas.shop"
+APP_LOCAION: /usr/share/nginx/html
+COMPONENT: frontend
