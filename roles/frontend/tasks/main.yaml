@@ -9,10 +9,10 @@
     state: started
     enabled: yes
   
-- name: include common role
-  include_role:
-    name: common
-    #tasks_from: main
+# - name: include common role
+#   include_role:
+#     name: common
+#     #tasks_from: main
 
 
 # trigger handler through notify
